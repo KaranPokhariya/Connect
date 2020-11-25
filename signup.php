@@ -101,11 +101,11 @@
     </div>
 
     <!--Footer-->
-    <center style="color: #319177;">
+    <!--<center style="color: #319177;">
 	    <footer id="footer">
 			<p class="copyright">&copy; Developed with <span class="fa fa-heart"></span> by Karan</p>
 		</footer>
-	</center>
+	</center-->
 
 </body>
 </html>
