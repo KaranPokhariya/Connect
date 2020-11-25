@@ -1,0 +1,138 @@
+body{
+    display: block;
+    background: url(bg3.jpg);
+    background-repeat: no-repeat;
+    font-family: tahoma;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: absolute;
+}
+
+#bar{
+    height: 100px;
+    background-color: #25274d;
+    color: #c5c6c7;
+    padding: 4px;
+    margin: 8px;
+}
+
+#signup_button{
+    background-color: #6f2232;
+    width: 70px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 4px;
+    float: right;
+}
+
+.login-box{
+    width: 320px;
+    height: 450px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    top: 55%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 18px;
+    font-family: tahoma;
+    color: #c5c6c7;
+    font-weight: bold;
+}
+
+.login-box p{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.login-box input{
+    width: 100%;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.login-box i{
+    width: 20px;
+    position: absolute;
+    margin-top: 15px;
+    color: black;
+}
+
+.login-box input[type="text"], input[type="password"]{
+    border: none;
+    padding: 0 0 0 35px;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    font-size: 14px;
+}
+  
+.login-box input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #25274d;
+    color: #c5c6c7;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+.login-box input[type="submit"]:hover{
+    cursor: pointer;
+    background: #6f2232;
+    color: #000;
+}
+
+input::-webkit-input-placeholder{
+    color: pink;
+    opacity: 1;
+}
+
+input::-moz-placeholder{
+    color: pink;
+    opacity: 1;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    text-decoration: underline;
+}
+
+.forgot_password{
+    color: black;
+}
+
+#audio_file{
+    display: none;
+}
