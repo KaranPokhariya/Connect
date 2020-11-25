@@ -43,9 +43,3 @@ class Database
 			return true;
 	}
 }
-
-/*
-$DB = new Database();
-$query = "select * from users where first_name = 'Karan'";
-$DB->read($query);
-*/
