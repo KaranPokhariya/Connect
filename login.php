@@ -40,12 +40,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<body>
-
-	<!--audio id="audio_file" src="audio/final/hollywood_game.mp3" autoplay controls>
-		<script src="js/audio.js"></script>
-	</audio-->
-    
+<body>  
     <div id="bar">
         <div style="font-size: 40px;">Connect</div>
         <a href="signup.php" style="text-decoration: none; color: #c5c6c7;">
