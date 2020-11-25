@@ -46,17 +46,9 @@
     <title>Connect | Signup</title>
     <link rel="stylesheet" href="css/signup.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script defer src="js/script.js"></script>
-
 </head>
 
 <body>
-
-    <!--audio id="audio_file" src="audio/final/hollywood_game.mp3" autoplay controls>
-        <script src="js/audio.js"></script>
-        <script src="js/script.js"></script>
-    </audio-->
-
     <div id="bar">
         <div style="font-size: 40px;">Connect</div>
         <a href="login.php" style="text-decoration: none; color: #c5c6c7;">
@@ -65,7 +57,7 @@
     </div>
 
     <div class="signup-box">
-	    <form method="post" action="" id="form" onsubmit="return validate_name();">
+	    <form method="post" action="#" id="form">
             <h1>Create your account</h1>
 
             <i class="fa fa-user"></i>
@@ -96,16 +88,9 @@
 	        <input name="password2" type="password" id="password2" placeholder="Confirm Password">
             <br>
 
-	        <input type="submit" id="button" value="Sign Up" onclick="return formValidate(this.form, this.form.email, this.form.first_name, this.form.last_name, this.form.password, this.form.password2);" >
+	        <input type="submit" id="button" value="Sign Up">
         </form>
     </div>
-
-    <!--Footer-->
-    <!--<center style="color: #319177;">
-	    <footer id="footer">
-			<p class="copyright">&copy; Developed with <span class="fa fa-heart"></span> by Karan</p>
-		</footer>
-	</center-->
 
 </body>
 </html>
