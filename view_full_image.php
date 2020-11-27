@@ -37,68 +37,10 @@
 	<html>
 	<head>
 		<title>Connect | Comment</title>
+		<link rel="stylesheet" href="css/full_image.css">
 	</head>
-
-	<style>
-		#nav-bar{
-			height: 50px;
-			background-color: #25274d;
-			color: #c5c6c7;
-		}
-		#profile_pic{
-			width: 150px;
-			border-radius: 50%;
-			border: solid 2px white;
-		}
-		#search_box{
-			width: 400px;
-			height: 20px;
-			border-radius: 5px;
-			border: none;
-			padding: 4px;
-			font-size: 14px;
-			background-image: url(search.png);
-			background-repeat: no-repeat;
-			background-position: right;
-		}
-		#post_button{
-			float: right;
-			background-color: #25274d;
-			border: none;
-			color: white;
-			padding: 4px;
-			font-size: 14px;
-			border-radius: 2px;
-			width: 100px; 
-		}
-		#post_bar{
-			margin-top: 20px;
-			background-color: white;
-			padding-right: 10px;
-		}
-		#post{
-			padding: 4px;
-			font-size: 14px;
-			margin-bottom: 20px;
-			display: flex;
-		}
-		#friends{
-			clear: both;
-			font-size: 12px;
-			font-weight: bold;
-			color: #25274d;
-		}
-		#friends_img{
-			width: 45px;
-			float: left;
-			margin: 8px;
-			border-radius: 50%;
-		}
-
-	</style>
-
-
-	<body style="font-family: tahoma; background-color: #eae7dc;">
+		
+	<body>
 		<br>
 		<!--Top bar-->
 		<?php
