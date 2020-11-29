@@ -48,8 +48,7 @@ This project is a simple social networking web application to connect and build 
     - cover_image
     - likes
     - about
-    
-  Create another table 'posts' with attributes:
+8. Create another table 'posts' with attributes:
     - id (auto increment)
     - postid
     - userid
@@ -62,12 +61,11 @@ This project is a simple social networking web application to connect and build 
     - date
     - is_profile_image
     - is_cover_image
-    
-  Create a table 'likes' with attributes:
+9. Create a table 'likes' with attributes:
     - id (auto increment)
     - type
     - url_id
     - liked_by
     - following
-8. Run your favourite browser and at the address bar, replace ../<folder_name>/signup.php with localhost/<folder_name>/signup.php
-9. Create your account->Login-> Enjoy
+10. Run your favourite browser and at the address bar, replace ../<folder_name>/signup.php with localhost/<folder_name>/signup.php
+11. Create your account->Login-> Enjoy
