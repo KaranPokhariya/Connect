@@ -69,3 +69,12 @@ This project is a simple social networking web application to connect and build 
     - following
 10. Run your favourite browser and at the address bar, replace ../<folder_name>/signup.php with localhost/<folder_name>/signup.php
 11. Create your account->Login-> Enjoy
+
+# Screenshots
+![Screenshot (112)](https://user-images.githubusercontent.com/36101958/100543926-b3446380-3278-11eb-98a2-ceb7a0395a87.png)
+
+![Screenshot (113)](https://user-images.githubusercontent.com/36101958/100543961-c5be9d00-3278-11eb-982c-4d5151d6b0a4.png)
+
+![Screenshot (114)](https://user-images.githubusercontent.com/36101958/100543971-ca835100-3278-11eb-8fd6-94a9342c994d.png)
+
+![Screenshot (115)](https://user-images.githubusercontent.com/36101958/100543976-cfe09b80-3278-11eb-84b8-0e4d10a80f7d.png)
