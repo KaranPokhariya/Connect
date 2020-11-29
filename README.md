@@ -48,6 +48,7 @@ This project is a simple social networking web application to connect and build 
     - cover_image
     - likes
     - about
+    
   Create another table 'posts' with attributes:
     - id (auto increment)
     - postid
@@ -61,6 +62,7 @@ This project is a simple social networking web application to connect and build 
     - date
     - is_profile_image
     - is_cover_image
+    
   Create a table 'likes' with attributes:
     - id (auto increment)
     - type
